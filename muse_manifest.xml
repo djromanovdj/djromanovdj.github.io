@@ -1,0 +1,75 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="RBSPiter.ru" resolutions="1x" timestamp="1526022681759">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4236627272" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u457.php" crc="4003025976" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="form-u548.php" crc="4291858366" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="фон.jpg" crc="511262443" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1 блок.png" crc="233062078" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u223-4.png" crc="4191686907" ref="index"/>
+    <file name="u227-4.png" crc="4099652740" ref="index"/>
+    <file name="u230-4.png" crc="9904818" ref="index"/>
+    <file name="u233-4.png" crc="123950181" ref="index"/>
+    <file name="u236-4.png" crc="253883066" ref="index"/>
+    <file name="u239-4.png" crc="293134107" ref="index"/>
+    <file name="u246-4.png" crc="4198236888" ref="index"/>
+    <file name="u250-4.png" crc="3917928421" ref="index"/>
+    <file name="u454-4.png" crc="4270592826" ref="index"/>
+    <file name="u256-4.png" crc="4272643053" ref="index"/>
+    <file name="u259-4.png" crc="168765722" ref="index"/>
+    <file name="u262-4.png" crc="3831009572" ref="index"/>
+    <file name="u265-6.png" crc="381660293" ref="index"/>
+    <file name="u268-6.png" crc="318379691" ref="index"/>
+    <file name="u271-4.png" crc="4203690613" ref="index"/>
+    <file name="u274-6.png" crc="93407306" ref="index"/>
+    <file name="2 блок.jpg" crc="294587254" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u281-4.png" crc="4145158848" ref="index"/>
+    <file name="6.png" crc="119330414" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u290-4.png" crc="227353151" ref="index"/>
+    <file name="1.png" crc="321243129" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2.png" crc="522529028" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u302-4.png" crc="3761805853" ref="index"/>
+    <file name="u314-4.png" crc="418581561" ref="index"/>
+    <file name="3.png" crc="3876357801" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4.jpg" crc="4138111106" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u323-4.png" crc="207436726" ref="index"/>
+    <file name="u543-4.png" crc="4270592826" ref="index"/>
+    <file name="5.jpg" crc="4074427731" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u335-4.png" crc="463843177" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4018064682" seo="true" mt="1526021918590" redirect="true"/>
+</manifest>
